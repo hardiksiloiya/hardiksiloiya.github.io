@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hello
+title: About me
 subtitle: I am Hardik Siloiya
 sitemap:
   priority: 0.9
