@@ -6,9 +6,13 @@ profile_picture:
 ---
 
 <p>
-  Welcome! This site serves as an example for the Bay Jekyll theme. Bay is a very simple and minimal theme, directly inspired by Dan Grover's <a href="http://dangrover.com">website</a>.
+  Hello and Welcome to my website!
+  I am Hardik Siloiya, a final year undergraduate student at IIT Bombay. I am pursuing a major as well as honours in the field of Computer Science and Engineering. Here is my <a href="https://github.com/eliottvincent/bay">CV</a>.
+ </p>
+ <p> 
+  My interests span a wide area including topics from Systems like OS, Distributed and Cloud Computing to Theoretical Computer Science involving Algorithms, Complexities and Games. I am currently working with <a href="https://github.com/eliottvincent/bay">Prof. Rohit Gurjar</a> on the problem of computing Grundy Numbers for Two-level Posets. I am also working with <a href="https://github.com/eliottvincent/bay">Prof. Sundar Vishwanathan</a>  on the topic of exact algorithms for graph coloring. Along with these, I am working on self-stabilizing algorithms for Grid Distributed Systems with <a href="https://github.com/eliottvincent/bay">Prof. Rushikesh Joshi</a> .
+</p>
+<p>
+  I also love Competitive Programming! You can find me on <a href="https://github.com/eliottvincent/bay">Codeforces</a> and <a href="https://github.com/eliottvincent/bay">Atcoder</a>. In my freetime, when I am not thinking about ideas related to my research or participating in a coding contest, I also like to play guitar.
 </p>
 
-<p>
-  You can find the source code and the instructions on <a href="https://github.com/eliottvincent/bay">GitHub</a>.
-</p>
