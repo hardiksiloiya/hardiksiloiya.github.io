@@ -1,26 +1,25 @@
-<header class="header">
-<div class="navigation">
-<a href="{{ '/' | prepend: site.baseurl }}" class="logo">{{ site.title }}</a>
-<ul class="menu">
-<li class="menu__entry"><a href="{{ '/resume' | prepend: site.baseurl }}">Resume</a></li>
-<li class="menu__entry"><a href="{{ '/blog' | prepend: site.baseurl }}">Blog</a></li>
-</ul>
-</div>
-<ul class="social-links">
-{% if site.author.email %}
-<a href="mailto:{{ site.author.email }}" class="social-links__entry" target="_blank">
-<i class="fa fa-envelope-square"></i>
-</a>
-{% endif %}
-{% if site.author.github %}
-<a href="https://github.com/{{ site.author.github }}" class="social-links__entry" target="_blank">
-<i class="fa fa-github"></i>
-</a>
-{% endif %}
-{% if site.author.linkedin %}
-<a href="https://in.linkedin.com/in/{{ site.author.linkedin }}" class="social-links__entry" target="_blank">
-<i class="fa fa-linkedin"></i>
-</a>
-{% endif %}
-</ul>
+<header class="site-header">
+  <div class="wrapper">
+    <a class="site-title" href="{{ "" | prepend: site.baseurl | prepend: site.url }}/">
+      <img src="{{ "/assets/img/title.png" | absolute_url }}" alt="{{ site.title }}" />
+    </a>
+
+    <nav class="site-nav">
+      <a href="#" class="menu-icon"></a>
+
+      <div class="menu">
+        {% for page in site.header.pages %}
+          {% if page.slug and page.slug != "" and page.slug != nil %}
+            {% assign page_link = page.slug %}
+          {% else %}
+            {% assign page_link = "/" | append: page.name | downcase %}
+          {% endif %}
+          {% assign page_link = page_link | absolute_url %}
+          <a class="page-link" href="{{ page_link }}">
+            {{ page.name }}
+          </a>
+        {% endfor %}
+      </div>
+    </nav>
+  </div>
 </header>

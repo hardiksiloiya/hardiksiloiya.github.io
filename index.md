@@ -1,14 +1,14 @@
 ---
-layout: page
-title: About me
-subtitle: I am Hardik Siloiya
-sitemap:
-  priority: 0.9
+layout: home
+profile_picture:
+  src: /assets/img/profile-pic.jpg
+  alt: website picture
 ---
 
-<img src="{{ '/assets/img/pudhina.jpg' | prepend: site.baseurl }}" id="about-img">
+<p>
+  Welcome! This site serves as an example for the Bay Jekyll theme. Bay is a very simple and minimal theme, directly inspired by Dan Grover's <a href="http://dangrover.com">website</a>.
+</p>
 
-<div id="describe-text">
-	<p>Welcome to my website.</p>
-	<p>I am a final year Computer Science undergraduate student at IIT Bombay. </p>
-</div>
+<p>
+  You can find the source code and the instructions on <a href="https://github.com/eliottvincent/bay">GitHub</a>.
+</p>
