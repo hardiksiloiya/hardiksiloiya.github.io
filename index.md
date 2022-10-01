@@ -13,6 +13,6 @@ profile_picture:
   My interests span a wide area including topics from Systems like OS, Distributed and Cloud Computing to Theoretical Computer Science involving Algorithms, Complexities and Games. I am currently working with <a href="https://www.cse.iitb.ac.in/~rgurjar/">Prof. Rohit Gurjar</a> on the problem of computing Grundy Numbers for Two-level Posets. I am also working with <a href="https://www.cse.iitb.ac.in/~sundar/">Prof. Sundar Vishwanathan</a>  on the topic of exact algorithms for graph coloring. Along with these, I am working on self-stabilizing algorithms for Grid Distributed Systems with <a href="https://www.cse.iitb.ac.in/~rkj/">Prof. Rushikesh Joshi</a> .
 </p>
 <p>
-  I also love Competitive Programming! You can find me on <a href="https://codeforces.com/submissions/DrivingThunder">Codeforces</a> and <a href="https://atcoder.jp/users/hardiksiloiya">Atcoder</a>. In my freetime, when I am not thinking about ideas related to my research or participating in a coding contest, I also like to play guitar.
+  I also love Competitive Programming! You can find me on <a href="https://codeforces.com/profile/DrivingThunder">Codeforces</a> and <a href="https://atcoder.jp/users/hardiksiloiya">Atcoder</a>. In my freetime, when I am not thinking about ideas related to my research or participating in a coding contest, I also like to play guitar.
 </p>
 
