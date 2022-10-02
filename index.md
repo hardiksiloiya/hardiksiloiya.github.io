@@ -6,7 +6,7 @@ profile_picture:
 ---
 
 <p>
-  Hello and Welcome to my website!
+  Hello and Welcome to my website!<br/>
   I am Hardik Siloiya, a final year undergraduate student at IIT Bombay. I am pursuing a major as well as honors in the field of Computer Science and Engineering. Here is my <a href="document.pdf" >CV</a>.
  </p>
  <p> 
